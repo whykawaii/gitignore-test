@@ -1,3 +1,3 @@
-# .gitignote test
+# .gitignore test
 
 Repo for test .gitignore file
